@@ -1,0 +1,15 @@
+torch
+torchvision
+mujoco
+pyquaternion
+pyyaml
+rospkg
+pexpect
+dm_control
+opencv-python
+matplotlib
+einops
+packaging
+h5py
+ipython
+-e ./detr
